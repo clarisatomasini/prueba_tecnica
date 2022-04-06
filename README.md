@@ -11,3 +11,6 @@ Las funciones hash que se deben aplicar sobre los archivos deben ser SHA-256 y S
 - Maven 
 ##### Para testear el endpoint
 - Invoke-WebRequest
+
+#### Consideraciones adicionales
+Se establece que los archivos se encuentran en la carpeta `files`, se suben dos archivos de texto para testing 
